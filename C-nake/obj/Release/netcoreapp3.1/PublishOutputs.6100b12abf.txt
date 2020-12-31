@@ -1,0 +1,5 @@
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\publish\C-nake.exe
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\publish\C-nake.dll
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\publish\C-nake.deps.json
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\publish\C-nake.runtimeconfig.json
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\publish\C-nake.pdb

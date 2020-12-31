@@ -1,0 +1,12 @@
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\C-nake.exe
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\C-nake.deps.json
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\C-nake.runtimeconfig.json
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\C-nake.runtimeconfig.dev.json
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\C-nake.dll
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\bin\Release\netcoreapp3.1\C-nake.pdb
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\obj\Release\netcoreapp3.1\C-nake.AssemblyInfoInputs.cache
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\obj\Release\netcoreapp3.1\C-nake.AssemblyInfo.cs
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\obj\Release\netcoreapp3.1\C-nake.csproj.CoreCompileInputs.cache
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\obj\Release\netcoreapp3.1\C-nake.dll
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\obj\Release\netcoreapp3.1\C-nake.pdb
+C:\Users\v-wfiallos\source\repos\C-nake\C-nake\obj\Release\netcoreapp3.1\C-nake.genruntimeconfig.cache
